@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-message: "Matthew Hamilton (2022). dce_sa_cards: HTML choice cards for use in pilot and final Discrete Choice Experiment (DCE) surveys of socially anxious young people. Zenodo. https://doi.org/10.5281/zenodo.6626256"
+message: "Matthew Hamilton (2022). dce_sa_cards: HTML choice cards for use in pilot and final Discrete Choice Experiment (DCE) surveys of socially anxious young people. Zenodo. https://doi.org/10.5281/zenodo.6626324"
 authors:
   - family-names: "Hamilton"
     given-names: "Matthew"
 title: "dce_sa_cards: HTML choice cards for use in pilot and final Discrete Choice Experiment (DCE) surveys of socially anxious young people"
-version: 0.0.9.1
+version: 0.0.9.2
+doi: 10.5281/zenodo.6626324)
 date-released: 2022-06-09
 url: "https://github.com/ready4-dev/dce_sa_cards"
